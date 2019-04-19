@@ -15,8 +15,8 @@
 
 def speak_to_grandma(phrase)  
   if "#{phrase}" == "I LOVE YOU GRANDMA!"
-    put "I LOVE YOU TOO PUMPKIN!"
+    puts "I LOVE YOU TOO PUMPKIN!"
   else 
-    put "hi"
+    puts "hi"
   end
 end
